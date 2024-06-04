@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "cuentacuentos_30000",
+    "slug": "snack-79a0a9a3-4888-4ade-978b-b5fb2b952e61",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "CuentaC etapa 1 PROC81 PANTALLAS\nCuentaC etapa 1 PROC82 UI e Historias\nCuentaC etapa2 PROC83 CrearHistorias"
+  }
+}
